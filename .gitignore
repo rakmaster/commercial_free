@@ -1,0 +1,16 @@
+# Build artifacts
+/commercial_free
+*.exe
+*.test
+
+# OS
+.DS_Store
+
+# IDE
+.idea/
+
+# Large demo footage — keep small example assets tracked, ignore source media
+assets/*.mp4
+assets/*.mov
+assets/*.m4v
+assets/*.mkv
